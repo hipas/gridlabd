@@ -1,6 +1,6 @@
 ## Important Notice
 
-This repository is a fork of the official version of GridLAB-D.  To make contributions to that version, see the PNNL-managed GitHub repository at https://github.com/gridlab-d/gridlab-d].
+This repository is a fork of the official version of GridLAB-D.  To make contributions to that version, see the PNNL-managed GitHub repository at https://github.com/gridlab-d/gridlab-d.
 
 Authorized github users may contribute to this repository. You must be a Stanford faculty, staff, student, affiliate, or subcontractor to be a contributor.  Please contact the repository owner to be authorized as a contributor.
 
