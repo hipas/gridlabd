@@ -80,7 +80,7 @@ Chassin, D.P., et al., "GridLAB-D Version _major_._minor_._patch_-_build_ (_bran
 You may use the `--cite` command option to obtain the correct citation for your version:
 ~~~
 host% gridlabd --cite
-Chassin, D.P., et al. "GridLAB-D 4.2.0-191008 (fix_python_validate) DARWIN", (2019) [online]. Available at https://github.com/hipas/gridlabd/commit/dfc392dc0208419ce9be0706f699fdd9a11e3f5b, Accessed on: Oct. 8, 2019.
+Chassin, D.P., et al. "GridLAB-D 4.2.0-191008 (fix_python_validate) DARWIN", (2019) [online]. Available at https://github.com/slacgismo/gridlabd/commit/dfc392dc0208419ce9be0706f699fdd9a11e3f5b, Accessed on: Oct. 8, 2019.
 ~~~
 This will allow anyone to identify the exact version you are using to obtain it from GitHub.
 
