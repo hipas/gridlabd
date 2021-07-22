@@ -7,9 +7,6 @@ on:
 
 jobs:
 
-  strategy:
-    max-parallel: 1 # forces jobs to run sequentially
-
     build:
       runs-on: ubuntu-latest
       container: hipas/gridlabd_dockerhub_base:201217
