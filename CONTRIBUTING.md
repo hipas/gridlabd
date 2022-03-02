@@ -1,6 +1,6 @@
 ## Important Notice
 
-This repository is a fork of the official version of GridLAB-D.  To make contributions to that version, see the PNNL-managed GitHub repository at https://github.com/gridlab-d/gridlab-d].
+This repository is a fork of the official version of GridLAB-D.  To make contributions to that version, see the PNNL-managed GitHub repository at https://github.com/gridlab-d/gridlab-d.
 
 Authorized github users may contribute to this repository. You must be a Stanford faculty, staff, student, affiliate, or subcontractor to be a contributor.  Please contact the repository owner to be authorized as a contributor.
 
@@ -30,7 +30,7 @@ _Note_: When a merge is performed, the PR is automatically closed and the branch
 
 ## Documentation changes
 
-All documentation changes arising from new features and capabilities should be made to this repository's wiki pages at https://github.com/slacgismo/gridlabd/wiki. Fixes or correction to GridLAB-D's online documentation should be made to https://gridlab-d.shoutwiki.org/, subject to review and approval by the PNNL team.
+All documentation changes arising from new features and capabilities should be made to this repository's wiki pages at https://github.com/hipas/gridlabd/wiki. Fixes or correction to GridLAB-D's online documentation should be made to https://gridlab-d.shoutwiki.org/, subject to review and approval by the PNNL team.
 
 # Coding Conventions
 
